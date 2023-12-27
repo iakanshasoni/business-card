@@ -15,11 +15,11 @@ body {
 }
 
 .card {
-    width: 400px;
+    width: 480px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     text-align: center;
     background: #ECE4D7;
     color: #2b2839;
